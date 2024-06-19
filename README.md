@@ -46,6 +46,6 @@ Zira is a Python-based virtual assistant capable of performing a variety of task
    - **Play music**: Plays a random track from the specified music directory.  <br>
    - **Open Word**: Opens Microsoft Word application.  <br>
    - **Hobbies**: Shares a list of hobbies like dancing, singing, drawing, and listening to music.  <br>
-<br>
+
 ## Files Included
 ```virtual_assistant.py ```: Python script implementing the virtual assistant functionality.
