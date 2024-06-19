@@ -40,12 +40,12 @@ Zira is a Python-based virtual assistant capable of performing a variety of task
 - Speak commands like "Open YouTube", "Tell me about Python", "What is the time", "Play music", etc.  <br>
 - The assistant will perform the requested tasks and provide responses accordingly.  <br>
 - Example Commands  <br>
-   - Open YouTube: Opens YouTube in the default web browser.  <br>
+   - ** Open YouTube **: Opens YouTube in the default web browser.  <br>
    - Tell me about Python: Fetches a summary from Wikipedia about Python.  <br>
-What is the time: Speaks the current time.  <br>
-Play music: Plays a random track from the specified music directory.  <br>
-Open Word: Opens Microsoft Word application.  <br>
-Hobbies: Shares a list of hobbies like dancing, singing, drawing, and listening to music.  <br>
+   - What is the time: Speaks the current time.  <br>
+   - Play music: Plays a random track from the specified music directory.  <br>
+   -Open Word: Opens Microsoft Word application.  <br>
+   -Hobbies: Shares a list of hobbies like dancing, singing, drawing, and listening to music.  <br>
 <br>
 ## Files Included
 ```virtual_assistant.py ```: Python script implementing the virtual assistant functionality.
