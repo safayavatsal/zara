@@ -21,6 +21,8 @@ Zira is a Python-based virtual assistant capable of performing a variety of task
 - **webbrowser**: For opening URLs in the default web browser.
 - **os**: For interacting with the operating system, such as opening files and directories.
 - **datetime**: For retrieving current date and time.
+## OUTPUT
+![Screenshot 2024-06-20 065309](https://github.com/Niharika-Varshney/Zira_VirtualAssistant/assets/118551235/fcf5ab5e-9317-41c2-9df2-c48cd5b1eea1)
 
 ## Usage
 
